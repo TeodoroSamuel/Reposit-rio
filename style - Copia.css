@@ -1,0 +1,31 @@
+.bloco_maior {
+    background-color: #567a8f;
+    width: 500px;
+    height: 500px;
+}
+
+.bloco_menor {
+    background-color: #869c61;
+    width: 50%;
+    height: 50%;
+}
+
+.fonte {
+    color: rgb(15, 14, 14);
+    background-color: rgb(55, 60, 39);
+    font-size: 25px;
+    font-style: bold;
+    font-family: Verdana;
+}
+
+.pai_body {
+    background-color:rgb(22, 96, 60);
+    width: 50%;
+    height: 50vh;
+}
+
+.filha_body {
+    background-color: rgb(5, 68, 113);
+    width: 75%;
+    height: 50%;
+}
